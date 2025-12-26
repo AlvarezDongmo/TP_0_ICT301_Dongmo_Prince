@@ -1,7 +1,6 @@
 # TP_0_ICT301_Dongmo_Prince
 
-Nom: Dongmo
-Prénoms: Prince Charles Alvarez  
+Noms: DONGMO Prince Charles Alvarez  
 Matricule: 25I2246
 
 ## Compréhension des principes SOLID
